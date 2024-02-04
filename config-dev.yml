@@ -1,3 +1,4 @@
 server:
-  port: 3355
+# port: 3355
   name: test5
+  info: springcloud-springconfigtest
